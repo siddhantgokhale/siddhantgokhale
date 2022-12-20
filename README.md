@@ -18,5 +18,4 @@ Here are some ideas to get you started:
 - I'm currently pursuing B.Tech in Mechanical Engineering
 - I'm currently learning UI/UX Design ; C & Python
 - I'm interested in Full-Stack Web Development, UI/UX & Cryptography ...
-
-
+- You can connect with me on [LinkedIn]( www.linkedin.com/in/siddhant-gokhale-9a7668251) & [Instagram](https://www.instagram.com/siddhant_gokhale)
