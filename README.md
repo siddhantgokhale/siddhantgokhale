@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- Pronouns : He/Him
+- I'm currently pursuing B.Tech in Mechanical Engineering
+- I'm currently learning UI/UX Design ; C & Python
+- I'm interested in Full-Stack Web Development, UI/UX & Cryptography ...
+
+
