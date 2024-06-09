@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - Pronouns : He/Him
-- I'm currently pursuing B.Tech in Mechanical Engineering
-- I'm currently learning UI/UX Design ; C & Python
-- I'm interested in Full-Stack Web Development, UI/UX & Cryptography ...
+- Sophomore student (B.Tech in Mechanical Engineering)
+- I'm currently learning Python for AI/ML applications, CAD and CAE software.
+- I'm interested in Design (Digital + Mechanical), Applications of AI/ML in Mechanical Engineering, Mechanical Engineering (core + application areas).
 - You can connect with me on [LinkedIn](https://www.linkedin.com/in/siddhant-gokhale-9a7668251) & [Instagram](https://www.instagram.com/siddhant_gokhale)
